@@ -1,9 +1,9 @@
 ### Boas Vindas ao Meu Perfil 😻
 
-Meu nome é Helena Vitoria
+Meu nome é Helena Vitoria e eu estou estudando junto com a Ana Paula
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Estamos estudando na [Alura](https://www.alura.com.br)
+- Estamos nos desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📬
